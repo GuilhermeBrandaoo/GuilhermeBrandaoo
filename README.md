@@ -21,7 +21,7 @@
 🚀 Em breve: Pretendo criar meus primeiros projetos com HTML, CSS e JavaScript e depois evoluir para aplicações com React e Node.js.
 
 📫 Como me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/guilherme-brandao-da-silva/))
+- LinkedIn: https://www.linkedin.com/in/guilherme-brandao-da-silva/
 - Email: desenvolvedorguilhermebrandao@gmail.com
 
 ---
